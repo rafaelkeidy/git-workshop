@@ -16,3 +16,5 @@ O objetivo é fazer os passos abaixo via cmd ou bash:
 Utilize o formato abaixo no arquivo livre.txt:
 
     Eu, <seu nome + sobrenome>, passei por aqui.
+
+***
